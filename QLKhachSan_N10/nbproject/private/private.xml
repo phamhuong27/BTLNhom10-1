@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/LoginDialog.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/PhongKhachDatDAO.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/KhoaPhong.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/KhachHangDAO.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/XuatHoaDonPanel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/GioiThieuDialog.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/PhongKhachDat_PhongTrong_Controller.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/KhoaPhongController.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Models/CustomtableKhoaphong.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/TraPhongPanel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/QuanLyDatPhong_Panel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/QLTaiKhoan.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Models/CustomTaiKhoan.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/QuanLyNhanVien.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/AdminMain.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Models/CustomPhong.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Models/PhongKhachDat_CustomTable.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/XemPhongPanel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/QLKhachHangPanel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/NhanVienMain.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/QLNhanVienDao.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/QLPhongDao.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/HoaDonDialog.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/QuanlynhanvienController.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Helper/DatabaseHelper_1.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/NDTroGiupDialog.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/PhongKhachDat_KhachHang_Controller.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Views/QLPhongPanel.java</file>
+            <file>file:/D:/MonHoc/LT_Java/BTL_DauHuyen/Nhom05_QLKhachSan/Nhom05_CT_QLKhachSan/QLKhachSan_N5/src/QLKS/Dao/PhongKhachDat_Controller.java</file>
+        </group>
+    </open-files>
+</project-private>
